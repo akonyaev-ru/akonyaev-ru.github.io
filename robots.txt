@@ -1,0 +1,6 @@
+# robots.txt for the whole host akonyaev-ru.github.io (applies to /resume/ too)
+# Everything is open for crawling. Do not add Disallow for /resume/ or its assets.
+User-agent: *
+Disallow:
+
+Sitemap: https://akonyaev-ru.github.io/resume/sitemap.xml
